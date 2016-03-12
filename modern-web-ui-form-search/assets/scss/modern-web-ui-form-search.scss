@@ -1,0 +1,22 @@
+/* Search component */
+.search-form-component {
+  /* Search form */
+  .sf-form {
+    text-align: center;
+    form {
+      .icon-before {
+        .icon {
+          font-size: 110% !important;
+        }
+      }
+      .form-control {
+        @include box-shadow(none);
+      }
+      div, div input{
+	 margin: 0 auto;
+	 text-align: center;
+      }
+    }
+  }
+}
+

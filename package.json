@@ -1,0 +1,57 @@
+{
+  "_args": [
+    [
+      "modern-web-ui-core@git://github.com/rajesh-babu/modern-web-framework.git#develop",
+      "C:\\rajeshbabu\\projects\\modernWeb"
+    ]
+  ],
+  "_from": "git://github.com/rajesh-babu/modern-web-framework.git#develop",
+  "_id": "modern-web-ui-core@0.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/modern-web-ui-core",
+  "_phantomChildren": {},
+  "_requested": {
+    "hosted": {
+      "directUrl": "https://raw.githubusercontent.com/rajesh-babu/modern-web-framework/develop/package.json",
+      "gitUrl": "git://github.com/rajesh-babu/modern-web-framework.git#develop",
+      "httpsUrl": "git+https://github.com/rajesh-babu/modern-web-framework.git#develop",
+      "shortcut": "github:rajesh-babu/modern-web-framework#develop",
+      "ssh": "git@github.com:rajesh-babu/modern-web-framework.git#develop",
+      "sshUrl": "git+ssh://git@github.com/rajesh-babu/modern-web-framework.git#develop",
+      "type": "github"
+    },
+    "name": "modern-web-ui-core",
+    "raw": "modern-web-ui-core@git://github.com/rajesh-babu/modern-web-framework.git#develop",
+    "rawSpec": "git://github.com/rajesh-babu/modern-web-framework.git#develop",
+    "scope": null,
+    "spec": "git://github.com/rajesh-babu/modern-web-framework.git#develop",
+    "type": "hosted"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git://github.com/rajesh-babu/modern-web-framework.git#40a7ee3937ce1a7d09ab928e0503811487774556",
+  "_shasum": "900ec5fea4da55bb67ae9d0f811966da5ca4e98c",
+  "_shrinkwrap": null,
+  "_spec": "modern-web-ui-core@git://github.com/rajesh-babu/modern-web-framework.git#develop",
+  "_where": "C:\\rajeshbabu\\projects\\modernWeb",
+  "bugs": {
+    "url": "https://github.com/rajesh-babu/modern-web-framework#core/issues"
+  },
+  "dependencies": {},
+  "description": "Modern Website using NodeJS, Gulp, jQuery, Bootstrap, requireJS and SASS",
+  "devDependencies": {},
+  "gitHead": "c317829c104bc9185ac616a2f569b4ff9f07ace5",
+  "homepage": "https://github.com/rajesh-babu/modern-web-framework#core",
+  "license": "MIT",
+  "name": "modern-web-ui-core",
+  "optionalDependencies": {},
+  "readme": "# modern-web-framework\r\n\r\nIt contains the components required for modern-web-framework\r\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajesh-babu/modern-web-framework.git#core"
+  },
+  "version": "0.0.1"
+}

@@ -1,2 +1,3 @@
-# modern-web-components
-This is the repository for various modern web components
+# modern-web-framework
+
+It contains the components required for modern-web-framework
