@@ -1,0 +1,37 @@
+{
+  "name": "modern-web-ui-reactJS-page",
+  "version": "2.0.0",
+  "description": "Creates the standard Modern modular ReactJS page",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "keywords": [
+    "ui",
+    "React"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Rajesh"
+  },
+  "devDependencies": {
+  },
+  "dependencies": {
+  },
+  "component": {
+    "templates": {
+      "mustache": "templates/modern-web-ui-reactJS-page.mustache"
+    },
+    "attributes": {
+      "id": {
+        "dataType": "String",
+        "value": ""
+      },
+      "ReactJS": {
+								"id":"content",
+        "heading": "React",     
+        "heading-level": "h2"
+      }
+    }
+  }
+}

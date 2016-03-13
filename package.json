@@ -3,6 +3,10 @@
     [
       "modern-web-ui-core@git://github.com/rajesh-babu/modern-web-framework.git#develop",
       "C:\\rajeshbabu\\projects\\modernWeb"
+    ],
+    [
+      "modern-web-ui-core@git://github.com/rajesh-babu/modern-web-framework.git#develop",
+      "C:\\rajeshbabu\\projects\\modernWeb"
     ]
   ],
   "_from": "git://github.com/rajesh-babu/modern-web-framework.git#develop",
@@ -31,8 +35,8 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "git://github.com/rajesh-babu/modern-web-framework.git#40a7ee3937ce1a7d09ab928e0503811487774556",
-  "_shasum": "900ec5fea4da55bb67ae9d0f811966da5ca4e98c",
+  "_resolved": "git://github.com/rajesh-babu/modern-web-framework.git#cf0e31831f18b49f56f21614982654744e428df3",
+  "_shasum": "1f8825a567784ea4137dc6d958fc7f901906b665",
   "_shrinkwrap": null,
   "_spec": "modern-web-ui-core@git://github.com/rajesh-babu/modern-web-framework.git#develop",
   "_where": "C:\\rajeshbabu\\projects\\modernWeb",
